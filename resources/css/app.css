@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.auth_btn{
+    margin-left: 4rem;
+    margin-top: 2rem;
+}
+.g_signin{
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
